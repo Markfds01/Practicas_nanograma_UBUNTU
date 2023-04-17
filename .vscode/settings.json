@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "nanogram_utils.h": "c",
+        "main_nanogramas.h": "c",
+        "network_structs.h": "c"
+    }
+}
